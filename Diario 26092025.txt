@@ -1,0 +1,1 @@
+Hoy hemos hablado de los conceptos basicos de sostenibilidad y despues he configurado el entorno de trabajo y el repositorio github que voy a usar
