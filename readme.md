@@ -1,3 +1,8 @@
+## Bitacora : 17/10/2025
+### Hoy hemos hablado de como los seres vivos conviven con otros
+### ¿QUÉ HACEMOS NOSOTROS: COOPERAMOS O COMPETIMOS?
+### Como seres humanos hemos tenido mucha historía tanto de cooperación como de competir por recursos. Actualmente en general nos encontramos en un estado de cooperación y compartimos recursos con otros.
+
 ## Bitacora: 10/10/2025
 ### Hoy hemos de que es la capacidad de carga en el ecosistema y los factores que la determinan.
 ### ¿HAY UN LÍMITE PARA LA POBLACIÓN HUMANA?
