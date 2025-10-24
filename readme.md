@@ -1,6 +1,6 @@
 ## Bitacora: 24/10/2025
 ### Hoy hemos visto las dos estrategias de crecimiento k y r. Dependiendo de la especie pueden reproducirse de manera mas lenta y tener mas cuidado parental(K) o reproducirse en masa y no tener cuidado parental alguno.
-### ¿Qué estrategia usamos los humanos?
+### ¿QUÉ ESTRATEGIA USAMOS LOS SERES HUMANOS?
 ### El ser humano siempre ha usado la estrategia K en la manera en la que nos reproducimos y nos relacionamos con el entorno
 
 ## Bitacora: 17/10/2025
