@@ -1,3 +1,7 @@
+## Bitacora: 31/10/2025
+### Hoy hemos visto como la consumición de recursos afecta no solo el area medioambiental sino también el ambito social y economico.
+
+
 ## Bitacora: 24/10/2025
 ### Hoy hemos visto las dos estrategias de crecimiento k y r. Dependiendo de la especie pueden reproducirse de manera mas lenta y tener mas cuidado parental(K) o reproducirse en masa y no tener cuidado parental alguno.
 ### ¿QUÉ ESTRATEGIA USAMOS LOS SERES HUMANOS?
