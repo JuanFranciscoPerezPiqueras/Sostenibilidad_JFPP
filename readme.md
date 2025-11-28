@@ -1,3 +1,14 @@
+# Bitacora: 28/11/2025
+## RESUMEN DE LA CLASE
+### Explicación de Economía Lineal y Economía Circular. Siempre se han reutilizado residuos cuando el valor de estos era evidente (Ej. Chatarra de un coche). Es cierto que antes no se reutilizaban tantos recursos como hoy, en ese aspecto la economía ha cambiado. Ahora se tienen en cuenta mas los Principios Clave de Circularidad.
+## PREGUNTA DE LA SEMANA: ¿En que me afecta a mi el ecodiseño a nivel individual? ¿Es mejor un enfoque colectivo o individual al aplicar medidas de economía circular?
+### A nivel individual he notado que me afecta a la hora de comprar ciertos productos, como por ejemplo ahora todas las botellas tienen tapones que no pueden tirar y las pajitas que hacen ahora de papel. En cuanto a los tipos de enfoque a la hora de aplicar medidas de economía circular, un enfoque colectivo aplicado a las empresas siempre será mucho mas efectivo que un enfoque individual. Porque da igual lo mucho que le digas al ciudadano que recicle y reutilize, si una empresa no tiene ningún tipo de restricción a la hora de, por ejemplo, vertir desechos, el impacto medioambiental que pueda hacer un ciudadano es insignificante en comparación con el impacto que hace esa empresa a diario.
+## Imagen
+<p align="center">
+  <img src="economia_circular_original.png" alt="Descripción" width="700">
+</p>
+
+
 # Bitacora: 14/11/2025
 ## RESUMEN DE LA CLASE
 ### Una diferencia principal entre nosotros y otras especies es que nosotros utilizamos herramientas. La elaboración de ciertas herramientas puede tener consecuencias en el medio ambiente. La metodología para averiguar el peso oculto(materiales empleados en la elaboración) de cada herramienta se llama Analisis de Ciclo de Vida. Las dos fuentes de energia principal son la energía solar y la energía nuclear. 
