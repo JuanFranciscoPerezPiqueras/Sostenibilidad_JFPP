@@ -1,3 +1,15 @@
+# Bitacora: 05/12/2025
+## RESUMEN DE LA CLASE
+### Huella Ecológica y Huella de Carbono, estas huellas tratan de medir el impacto que los seres humanos tienen en el planeta, se pueden medir tanto en hectareas globales y con un metodo de banco (¿estamos gastando mas recursos de los que podemos generar?). La huella de carbono es la cantidad total de CO2 que se emite, esto sirve tanto para a nivel individual como a nivel global. A dia de hoy tambien se mide la cantidad de planetas que podemos llegar a necesitar en base a las huellas mencionadas anteriormente. 
+## ACTIVIDAD DE HOY: En footprintcalculator responder a las preguntas y poner la imagen resultante:
+## Imagen
+<p align="center">
+  <img src="huella_carbono.PNG" alt="Descripción" width="700">
+</p>
+
+## REFLEXIÓN
+### La verdad me ha sorprendido el resultado de mi test, considero que mi estilo de vida es bastante normal y que en mi casa no se consumen muchos recursos y eso es algo que he querido reflejar en el test obviamente pero aún asi no me esperaba este resultado. Es evidente que subestimé por bastante el impacto medioambiental que cada individuo puede tener, pero no estoy seguro que medidas se podrian adoptar a nivel individual para contrarestrar esto.
+
 # Bitacora: 28/11/2025
 ## RESUMEN DE LA CLASE
 ### Explicación de Economía Lineal y Economía Circular. Siempre se han reutilizado residuos cuando el valor de estos era evidente (Ej. Chatarra de un coche). Es cierto que antes no se reutilizaban tantos recursos como hoy, en ese aspecto la economía ha cambiado. Ahora se tienen en cuenta mas los Principios Clave de Circularidad.
