@@ -1,3 +1,15 @@
+# Bitacora: 12/12/2025
+## RESUMEN DE LA CLASE
+### Cambio Climático: El cambio climático representa una serie de problemas medioambientales lo cuales también pueden llegar a crear una serie de conflictos internacionales por la obtención de recursos. Las pruebas de que esto es así son irrefutables, la mitad de la población mundial esta en zonas vulnerables al cambio climático lo cual causa una cascada de fallos relacionados con el agua, alimentos y migraciones. Por los cambios de temperatura muchas especies que no formaban parte de nuestro ecosistema antes, migran aqui causando problemas. En el paronama geopolítico actual hay muchos conflictos por recursos no renovables que son esenciales. Se estan, ahora, invirtiendo dinero y recursos en buscar formas de mitigar la consecuencias del cambio climático.
+## PREGUNTA DE HOY
+### ¿Cuál es el principal emisor de CO2? ¿Qué medidas sostenibles crees tu que podrias adoptar en tu sector laboral como programador?
+### El principal emisor de CO2 en el planeta es la quema de combustibles fosiles, siendo los mayores exponentes de esto China y Estados Unidos. Como programador la principal actividad para reducir el consumo energetico es el desarrollo de softwafre sostenible mediante practicas como: uso de recursos renovables como green hosting, implementación de algoritmos energeticamente eficientes,  la integración y monitorización continuas, etc.
+## FUENTES UTILIZADAS: https://smowl.net/es/blog/software-sostenible/#elementor-toc__heading-anchor-3
+## Imagen
+<p align="center">
+  <img src="software_sostenible.png" alt="Descripción" width="700">
+</p>
+
 # Bitacora: 05/12/2025
 ## RESUMEN DE LA CLASE
 ### Huella Ecológica y Huella de Carbono, estas huellas tratan de medir el impacto que los seres humanos tienen en el planeta, se pueden medir tanto en hectareas globales y con un metodo de banco (¿estamos gastando mas recursos de los que podemos generar?). La huella de carbono es la cantidad total de CO2 que se emite, esto sirve tanto para a nivel individual como a nivel global. A dia de hoy tambien se mide la cantidad de planetas que podemos llegar a necesitar en base a las huellas mencionadas anteriormente. 
