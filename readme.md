@@ -1,3 +1,15 @@
+# Bitacora: 09/01/2026
+## RESUMEN DE LA CLASE
+### Los residuos son aquellos desechos que la sociedad no ha encontrado utililidad asi que se tienden a acumular. Muchos de los residuos electronicos que producimos van a parar a paises tercer mundistas como ciertas partes de Africa. Los microplasticos causan muchos problemas en el cuerpo humano debido al impacto que tienen en nuestras hormonas, ademas la propia naturaleza funciona de tal modo que los animales de los cuales nos alimentamos también comen microplasticos. La ropa de poliester dado que es un derivado del plastico tarda siglos en biodegradarse. A dia de hoy los residuos electronicos son aprovechados en gran parte del mundo porque de estos se sacan muchos recursos utiles pero el problema de contaminación con los residuos restantes sigue siendo el mismo.
+## PREGUNTA DE HOY
+### ¿Por qué cambiaste tu ultimo movil?
+### El movil que tengo actualmente pertenecía a mi madre pero ella consiguió otro mejor asi que yo me quede con el suyo antiguo (que era mejor que el mio), mi movil antiguo creo esta guardado en mi casa no lo vendimos ni lo reciclamos.
+## Imagen
+<p align="center">
+  <img src="vertedero-de-basura-electronica-paises-bajos_2e8cedd6_1200x630.jpg" alt="Descripción" width="700">
+</p>
+
+
 # Bitacora: 12/12/2025
 ## RESUMEN DE LA CLASE
 ### Cambio Climático: El cambio climático representa una serie de problemas medioambientales lo cuales también pueden llegar a crear una serie de conflictos internacionales por la obtención de recursos. Las pruebas de que esto es así son irrefutables, la mitad de la población mundial esta en zonas vulnerables al cambio climático lo cual causa una cascada de fallos relacionados con el agua, alimentos y migraciones. Por los cambios de temperatura muchas especies que no formaban parte de nuestro ecosistema antes, migran aqui causando problemas. En el paronama geopolítico actual hay muchos conflictos por recursos no renovables que son esenciales. Se estan, ahora, invirtiendo dinero y recursos en buscar formas de mitigar la consecuencias del cambio climático.
@@ -10,6 +22,7 @@
   <img src="software_sostenible.png" alt="Descripción" width="700">
 </p>
 
+
 # Bitacora: 05/12/2025
 ## RESUMEN DE LA CLASE
 ### Huella Ecológica y Huella de Carbono, estas huellas tratan de medir el impacto que los seres humanos tienen en el planeta, se pueden medir tanto en hectareas globales y con un metodo de banco (¿estamos gastando mas recursos de los que podemos generar?). La huella de carbono es la cantidad total de CO2 que se emite, esto sirve tanto para a nivel individual como a nivel global. A dia de hoy tambien se mide la cantidad de planetas que podemos llegar a necesitar en base a las huellas mencionadas anteriormente. 
@@ -18,6 +31,7 @@
 <p align="center">
   <img src="huella_carbono.PNG" alt="Descripción" width="700">
 </p>
+
 
 ## REFLEXIÓN
 ### La verdad me ha sorprendido el resultado de mi test, considero que mi estilo de vida es bastante normal y que en mi casa no se consumen muchos recursos y eso es algo que he querido reflejar en el test obviamente pero aún asi no me esperaba este resultado. Es evidente que subestimé por bastante el impacto medioambiental que cada individuo puede tener, pero no estoy seguro que medidas se podrian adoptar a nivel individual para contrarestrar esto.
