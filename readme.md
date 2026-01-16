@@ -1,3 +1,15 @@
+# Bitácora: 16/01/2026
+## RESUMEN DE LA CLASE
+### La agenda 2030 son un conjunto de Objetivos de Desarrollo Sostenible que se tienen previsto cumplir para 2030. Una de las consecuencias de estos ODS es, por ejemplo, la inversión en el sector educativo con la apertura de varios ciclos formativos. Estos ODS se agrupan en 3 grupos: Social, Ambiental y Económica y de Gobernanza. Por ahora de estos objetivos no se han cumplido ni la mitad.
+## PREGUNTA DE HOY
+### ¿Se van a conseguir los ODS? ¿El hecho de que vayan a conseguir o no tiene importancia?
+### Honestamente me parece imposible actualmente, no solo por el hecho de que de estos "Objetivos" que se propusieron en 2015 no se han cumplido ni la mitad, si no también por el clima político y económico actual. El hecho de que estos ODS no se vayan a cumplir obviamente tiene mucha importancia, si estos ODS se hubieran cumplido es indudable que la calidad de vida en general sería 10 veces superior a la actual.
+## Imagen
+<p align="center">
+  <img src="ODS-Objetivos-Desarrollo-Sostenible-Ekomodo-e1582029087666-1568x929.jpg" alt="Descripción" width="700">
+</p>
+
+
 # Bitacora: 09/01/2026
 ## RESUMEN DE LA CLASE
 ### Los residuos son aquellos desechos que la sociedad no ha encontrado utililidad asi que se tienden a acumular. Muchos de los residuos electronicos que producimos van a parar a paises tercer mundistas como ciertas partes de Africa. Los microplasticos causan muchos problemas en el cuerpo humano debido al impacto que tienen en nuestras hormonas, ademas la propia naturaleza funciona de tal modo que los animales de los cuales nos alimentamos también comen microplasticos. La ropa de poliester dado que es un derivado del plastico tarda siglos en biodegradarse. A dia de hoy los residuos electronicos son aprovechados en gran parte del mundo porque de estos se sacan muchos recursos utiles pero el problema de contaminación con los residuos restantes sigue siendo el mismo.
