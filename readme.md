@@ -1,3 +1,14 @@
+# Bitácora: 23/01/2026
+## RESUMEN DE LA CLASE
+### Un plan sostenibilidad empresarial se centra en hacer que el proceso de producción de esta sea facil de mantener. La sostenibildad no es una opción, es una condición de supervivencia. La economía no existe en el vacío, las empresas dependen de ecosistemas sanos y de sociedades funcionales. Hay 4 partes en un plan de sostenibilidad: diagnostico inicial (identificamos el problema), hablar con los grupos de interés(¿A quién afectamos y quién nos afecta?), materialidad  (¿Qué es lo prioritario), Acción y Métricas (objetivos medibles y reporte transparente). Al final de todo el proceso SIEMPRE tiene que haber un informe.
+## PREGUNTA DE HOY
+### ¿Estos planes de sostenibilidad son 'greenwashing', o son utiles de verdad?
+### En teoría si, los planes de sostenibilidad on fundamentales y muy útiles en las empresas modernas, ya que no solo mejoran la reputación de marca, sino que también generan ahorro de costes mediante la eficiencia de recursos, garantizan el cumplimiento normativo para evitar sanciones y atraen inversores.
+## Imagen
+<p align="center">
+  <img src="etapas-sostenibilidad-empresas.png" alt="Descripción" width="700">
+</p>
+
 # Bitácora: 16/01/2026
 ## RESUMEN DE LA CLASE
 ### La agenda 2030 son un conjunto de Objetivos de Desarrollo Sostenible que se tienen previsto cumplir para 2030. Una de las consecuencias de estos ODS es, por ejemplo, la inversión en el sector educativo con la apertura de varios ciclos formativos. Estos ODS se agrupan en 3 grupos: Social, Ambiental y Económica y de Gobernanza. Por ahora de estos objetivos no se han cumplido ni la mitad.
